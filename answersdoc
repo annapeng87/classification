@@ -1,0 +1,11 @@
+Resampling:
+
+Which model had the best balanced accuracy score?
+SMOTE oversampling
+
+Which model had the best recall score?
+Combination
+
+Which model had the best geometric mean score?
+Naive oversampling
+
